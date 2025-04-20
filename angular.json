@@ -296,8 +296,8 @@
 					},
 					"defaultConfiguration": "development",
 					"options": {
-						"port": 6000,
-						"publicHost": "http://localhost:6000",
+						"port": 8081,
+						"publicHost": "http://localhost:8081",
 						"extraWebpackConfig": "projects/carts-app/webpack.config.js"
 					}
 				},
