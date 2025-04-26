@@ -6,7 +6,7 @@ import { OrdersComponent } from './orders/orders.component';
 
 
 @NgModule({
-  declarations: [OrdersComponent],
+  declarations: [],
   imports: [
     CommonModule,
     AppRoutingModule

@@ -6,7 +6,7 @@ import { CartsComponent } from './carts/carts.component';
 
 
 @NgModule({
-  declarations: [CartsComponent],
+  declarations: [],
   imports: [
     CommonModule,
     AppRoutingModule
